@@ -1,5 +1,5 @@
 <?php
-    $title='About';
+    $title='Home';
     include 'head.php'?>
 
     <!-- banner part start-->
@@ -9,8 +9,8 @@
                 <div class="col-lg-6">
                     <div class="banner_text">
                         <div class="banner_text_iner">
-                            <h1>Full Sustainable <br>
-                                Cargo Solutions</h1>
+                            <h1>Soon Developments <br>
+                                Ltd</h1>
                             <p>Representative logistics operator providing full range of service in the sphere of customs clearance and transportation worldwide.</p>
                             <div class="input-phone">
                             </div>

@@ -1,5 +1,5 @@
 <?php
-    $title='About';
+    $title='Air Freight';
     include 'head.php'?>
 
     <!-- breadcrumb start-->
