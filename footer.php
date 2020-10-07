@@ -4,15 +4,11 @@
             <div class="row">
                 <div class="col-xl-3 col-sm-6 ">
                     <div class="single-footer-widget footer_1">
-                        <a href="index.html"> <img src="img/footer-logo.png" alt=""> </a>
-                        <p>Entebbe Airport Cargo Terminal Building</p>
+                        <a href="index.html"> <img src="img/soon-logo-127x70.png" alt=""> </a>
+                        <p>Soon Developments Ltd is a top of the range Logistics company based in Entebbe, Uganda</p>
                         <p>+256 772 420 708, +256 700 166 144</p>
                         <p>info@soondevelopmentsltd.com</p>
-                        <div class="working_hours">
-                            <p>Working Hours: </p>
-                            <p>Monday-Friday: <span>8AM - 6PM</span> </p>
-                            <p>Saturday-Sunday: <span>8AM - 12PM</span> </p>
-                        </div>
+                        
                     </div>
                 </div>
                 <div class="col-xl-3 col-sm-6">
@@ -26,34 +22,19 @@
                         </ul>
                     </div>
                 </div>
+                
                <div class="col-xl-3 col-sm-6">
                     <div class="single-footer-widget footer_3">
-                        <h4>Our Gallery</h4>
-                        <div class="footer_img">
-                            <div class="single_footer_img">
-                                <img src="img/footer_img/footer_img_1.png" alt="">
-                            </div>
-                            <div class="single_footer_img">
-                                <img src="img/footer_img/footer_img_2.png" alt="">
-                            </div>
-                            <div class="single_footer_img">
-                                <img src="img/footer_img/footer_img_3.png" alt="">
-                            </div>
-                            <div class="single_footer_img">
-                                <img src="img/footer_img/footer_img_4.png" alt="">
-                            </div>
-                            <div class="single_footer_img">
-                                <img src="img/footer_img/footer_img_5.png" alt="">
-                            </div>
-                            <div class="single_footer_img">
-                                <img src="img/footer_img/footer_img_6.png" alt="">
-                            </div>
-                            <div class="single_footer_img">
-                                <img src="img/footer_img/footer_img_1.png" alt="">
-                            </div>
-                            <div class="single_footer_img">
-                                <img src="img/footer_img/footer_img_2.png" alt="">
-                            </div>
+                        <h4>Location</h4>
+                        <p>
+                            Cargo Terminal Building,<br>
+                            Entebbe Airport,<br>
+                            Entebbe, Uganda<br>
+                        </p>
+                        <div class="working_hours">
+                            <p>Working Hours: </p>
+                            <p>Monday-Friday: <span>8AM - 6PM</span> </p>
+                            <p>Saturday-Sunday: <span>8AM - 12PM</span> </p>
                         </div>
                     </div>
                 </div>

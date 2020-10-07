@@ -2408,6 +2408,7 @@ ul {
   .navbar-brand img {
     max-width: 100px;
     margin: 0 auto;
+    margin-top:-10px;
     position: absolute;
     left: 0;
     right: 0;

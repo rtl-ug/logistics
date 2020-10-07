@@ -19,8 +19,8 @@
                 </div>
                 <div class="pick_up_text">
                     <div class="pickup_text_iner">
-                        <p>Logistics World 2019</p>
-                        <h3>Get Pick up Here</h3>
+                        <p>Need Help Moving your Cargo?</p>
+                        <h3>Get Quotation Now</h3>
                     </div>
                     <div class="pickup_text_arrow">
                         <img src="img/icon/right-arrow.svg" alt="">
@@ -163,7 +163,7 @@
 
     <!--::regervation_part start::-->
     <section class="regervation_part section_padding">
-        <div class="container">
+        <div class="container" id="quotation">
             <div class="row d-flex align-items-center justify-content-between">
                 <div class="col-lg-5 col-md-6">
                     <div class="regervation_part_iner">
