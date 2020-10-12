@@ -23,7 +23,7 @@
             <div class="row justify-content-between">
                 <div class="col-lg-5">
                     <div class="service_text">
-                        <h2>Boxe Best <br><span> Deliverie Services </span></h2>
+                        <h2>Logistics Solutions <br><span> Great Service Delivery </span></h2>
                         <p>At Soon Developments Ltd before any cargo clearing business can take shape, we usually hold an exhaustive discussion with the prospective client.</p>
                         <p>The purpose of the discussion is to ascertain the precise requirements of the clients and enable us offer a personalized and customized cargo clearing solution to the client.</p>
                         <p>We survey the existing situation and try to obtain a thorough understanding of the needs of the assignment, we then reach to an accord-able medium on medium on definite Terms Of Reference (TOR) with the Client.</p>
