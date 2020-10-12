@@ -55,7 +55,10 @@
                                 <li class="nav-item">
                                     <a class="nav-link" href="about">About</a>
                                 </li>
-                                 <li class="nav-item dropdown">
+                                 <li class="nav-item">
+                                    <a class="nav-link" href="service">Services</a>
+                                </li>
+                               <!--  <li class="nav-item dropdown">
                                     <a class="nav-link dropdown-toggle" href="service" id="navbarDropdown"
                                         role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                                         Services
@@ -66,7 +69,7 @@
                                         <a class="dropdown-item" href="road">Road Freight</a>
                                         <a class="dropdown-item" href="warehousing">Warehousing</a>
                                     </div>
-                                </li>
+                                </li>-->
                                 <li class="nav-item">
                                     <a class="nav-link" href="delivery">delivery</a>
                                 </li>

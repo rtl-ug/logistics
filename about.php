@@ -30,12 +30,12 @@
                 <div class="col-lg-7">
                     <div class="about_part_text">
                         <div class="about_text_iner">
-                            <p>We give you control of your shipments.</p> 
-                                <p>We pride ourselves in providing the best transport and shipping services available allover the world.</p> 
-                                <p>We offer the best services through our skilled personnel, utilising communications, tracking and processing software, combined with decades of experience.
-                            </p>
-                            <p>We invest time and expertise to fully understand your business before designing plans to improve your supply chain.</p>
-                            <p> We take responsibility for the performance of all our suppliers and for ensuring the availability of resources and equipment needed to control the flow of goods under our charge. </p>
+                            <p>Soon Development Ltd is an associate member of the Uganda Clearing and Forwarding Association(UCIFA) and the Uganda Chambers of Commerce and Industry.</p>
+                            <p>Soon Development Ltd boasts of ten years and counting of experience in doing business in the COMESA region and beyond through its esteemed partners. We have grownfrom strength to strengthto where we are today and our passion is to be regional leader in customs clearance and logistics management. We are committed to continuously seek opportunities which will enable us to spread our wings further and undertake logistic management in the entire African continent. Ultimately, wherever there is a customer shipment, we at Soon Development Ltd will have the right solutions.</p>
+                            <p>Soon Development Ltd provides its valued customers with the highest level of service in Freight, Forwarding, Customs Clearance, Special Projects, Storage, Insurance and Intermodel transportation providing Efficient and reliable services at competitive prices.</p> 
+                            <p>Soon Developments Ltd can execute a General Bond for your goods in transit and temporal importss in the quickest time possible.</p>
+                            <p>We undertake to keep with complete secrecy all confidential information to us and shall not use or attempt to use any such information in any manner which may injure or cause loss either directly or indirectly.</p>
+
                         </div>
                     </div>
                 </div>
@@ -110,12 +110,50 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="blog_tittle">
-                        <h2>Latest Blog</h2>
+                        <h2>Management Directory</h2>
                     </div>
                 </div>
                 <div class="col-lg-4 col-sm-6">
                     <div class="single_blog">
                         <div class="single_blog_img">
+                            <img src="img/blog/collins.png" alt="">
+                           <!-- <div class="date">
+                                <h1>jan</h1><span> <br> 2019 </span>
+                            </div>-->
+
+                        </div>
+                        <div class="single_blog_text">
+                            <h3>CEO</h3>
+                            <h2>Mr. Collins Munywanyi Robert</h2>
+                            <p>"...our working philosophy is to ensure that our customers always come first. We aim to become your business partner, offering expert advice and solutionsto all your importing, exporting and warehousing and transportation needs."</p>
+                        <!--    <a href="#"> <i class="ti-heart"></i> 100 Likes</a>
+                            <a href="#"> <i class="ti-comments-smiley"></i> 1 Comment</a>-->
+                        </div>
+                    <!--    <a class="btn_3" href="blog.html">read more <i class="ti-arrow-right"></i> </a>-->
+                    </div>
+                </div>
+                <div class="col-lg-4 col-sm-6">
+                    <div class="single_blog">
+                        <div class="single_blog_img">
+                            <img src="img/blog/faridahw.png" alt="">
+                          <!--  <div class="date">
+                                <h1>jan</h1><span> <br> 2019 </span>
+                            </div>-->
+
+                        </div>
+                        <div class="single_blog_text">
+                            <h3>Human Resource Manager</h3>
+                            <h2>Miss Namala Faridah</h2>
+                            <p></p>
+                        <!--    <a href="#"> <i class="ti-heart"></i> 100 Likes</a>
+                            <a href="#"> <i class="ti-comments-smiley"></i> 1 Comment</a>-->
+                        </div>
+                    <!--    <a class="btn_3" href="blog.html">read more <i class="ti-arrow-right"></i> </a>-->
+                    </div>
+                </div>
+                <div class="col-lg-4 col-sm-6">
+                    <div class="single_blog">
+                       <!-- <div class="single_blog_img">
                             <img src="img/blog/blog_1.png" alt="">
                             <div class="date">
                                 <h1>jan</h1><span> <br> 2019 </span>
@@ -129,45 +167,7 @@
                             <a href="#"> <i class="ti-heart"></i> 100 Likes</a>
                             <a href="#"> <i class="ti-comments-smiley"></i> 1 Comment</a>
                         </div>
-                        <a class="btn_3" href="blog.html">read more <i class="ti-arrow-right"></i> </a>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-sm-6">
-                    <div class="single_blog">
-                        <div class="single_blog_img">
-                            <img src="img/blog/blog_1.png" alt="">
-                            <div class="date">
-                                <h1>jan</h1><span> <br> 2019 </span>
-                            </div>
-
-                        </div>
-                        <div class="single_blog_text">
-                            <h3><a href="blog.html">Founder Defends</a></h3>
-                            <p>Varius conubia a mauris litora lacus. Cubilia proin on ornare et nunc
-                                dapibus vel rutrum augue facilisis malesuada et porta impe.</p>
-                            <a href="#"> <i class="ti-heart"></i> 100 Likes</a>
-                            <a href="#"> <i class="ti-comments-smiley"></i> 1 Comment</a>
-                        </div>
-                        <a class="btn_3" href="blog.html">read more <i class="ti-arrow-right"></i> </a>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-sm-6">
-                    <div class="single_blog">
-                        <div class="single_blog_img">
-                            <img src="img/blog/blog_1.png" alt="">
-                            <div class="date">
-                                <h1>jan</h1><span> <br> 2019 </span>
-                            </div>
-
-                        </div>
-                        <div class="single_blog_text">
-                            <h3><a href="blog.html">Founder Defends</a></h3>
-                            <p>Varius conubia a mauris litora lacus. Cubilia proin on ornare et nunc
-                                dapibus vel rutrum augue facilisis malesuada et porta impe.</p>
-                            <a href="#"> <i class="ti-heart"></i> 100 Likes</a>
-                            <a href="#"> <i class="ti-comments-smiley"></i> 1 Comment</a>
-                        </div>
-                        <a class="btn_3" href="blog.html">read more <i class="ti-arrow-right"></i> </a>
+                        <a class="btn_3" href="blog.html">read more <i class="ti-arrow-right"></i> </a>-->
                     </div>
                 </div>
             </div>

@@ -46,10 +46,17 @@
                         <div class="about_text_iner">
                             <p>We give you control of your shipments.</p> 
                                 <p>We pride ourselves in providing the best transport and shipping services available allover the world.</p> 
-                                <p>We offer the best services through our skilled personnel, utilising communications, tracking and processing software, combined with decades of experience.
+                                <p>We offer the best services through our skilled personnel, utilising communications, tracking and processing software, combined with years of experience.
                             </p>
-                            <p>We invest time and expertise to fully understand your business before designing plans to improve your supply chain.</p>
                             <p> We take responsibility for the performance of all our suppliers and for ensuring the availability of resources and equipment needed to control the flow of goods under our charge. </p>
+                            <p>Our Vision:<br>To be the firm of reference for any clearing and forwarding continuity cargo project in East Africa and beyond.</p> 
+                                <p>Our Values:<br>
+                                    Passion for delivery<br>
+                                    Forward looking<br>
+                                    Integrity</p> 
+                                <p>Our Mission:<br>
+                                    Providing excellent logistics services.</p>
+                                    <a href="about.php" class="btn_1">read more</a>
                         </div>
                     </div>
                 </div>
@@ -68,7 +75,7 @@
                         <h2>Logistics Solutions<br><span> Great Service Delivery </span></h2>
                         <p>Our global logistics expertise, advanced supply chain technology & customized logistics solutions will help you analyze, develop and implement successful supply chain management strategies from end-to-end.Modes of transport on these networks may include automobiles, buses, trains, trucks, helicopters, watercraft world wide services provider.</p>
                         <P>We provide independent advice and identify the right fit for you. Services are sourced and procured based on solution specifications provided by our Supply Chain Solution.</P>
-                        <a href="service.html" class="btn_1">learn more</a>
+                        <a href="service.php" class="btn_1">learn more</a>
                     </div>
                 </div>
                 <div class="col-lg-6">
@@ -234,7 +241,7 @@
                         <div class="single_deliveries">
                             <img src="img/deliveries/deliveries_1.png" alt="">
                             <div class="single_deliveries_text">
-                                <h3>World Corgo</h3>
+                                <h3>Roofing Uganda Ltd</h3>
                                 <div class="single_deliveries_text_iner">
                                     <img src="img/deliveries_img.png" alt="">
                                     <p>324 King Heaven tower, House no
@@ -247,7 +254,7 @@
                         <div class="single_deliveries">
                             <img src="img/deliveries/deliveries_2.png" alt="">
                             <div class="single_deliveries_text">
-                                <h3>World Corgo</h3>
+                                <h3>Tembo Steels (u) Ltd</h3>
                                 <div class="single_deliveries_text_iner">
                                     <img src="img/deliveries_img.png" alt="">
                                     <p>324 King Heaven tower, House no
@@ -260,7 +267,7 @@
                         <div class="single_deliveries">
                             <img src="img/deliveries/deliveries_3.png" alt="">
                             <div class="single_deliveries_text">
-                                <h3>World Corgo</h3>
+                                <h3>UAE Xchange</h3>
                                 <div class="single_deliveries_text_iner">
                                     <img src="img/deliveries_img.png" alt="">
                                     <p>324 King Heaven tower, House no
@@ -273,7 +280,85 @@
                         <div class="single_deliveries">
                             <img src="img/deliveries/deliveries_1.png" alt="">
                             <div class="single_deliveries_text">
-                                <h3>World Corgo</h3>
+                                <h3>Computer Point</h3>
+                                <div class="single_deliveries_text_iner">
+                                    <img src="img/deliveries_img.png" alt="">
+                                    <p>324 King Heaven tower, House no
+                                        Melbourne ,VIC-222, Australia</p>
+                                    <p>324 King Heaven tower, House no
+                                        Melbourne ,VIC-222, Australia</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="single_deliveries">
+                            <img src="img/deliveries/deliveries_1.png" alt="">
+                            <div class="single_deliveries_text">
+                                <h3>Redington Gulf</h3>
+                                <div class="single_deliveries_text_iner">
+                                    <img src="img/deliveries_img.png" alt="">
+                                    <p>324 King Heaven tower, House no
+                                        Melbourne ,VIC-222, Australia</p>
+                                    <p>324 King Heaven tower, House no
+                                        Melbourne ,VIC-222, Australia</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="single_deliveries">
+                            <img src="img/deliveries/deliveries_1.png" alt="">
+                            <div class="single_deliveries_text">
+                                <h3>Southern Business Solutions (u) Ltd</h3>
+                                <div class="single_deliveries_text_iner">
+                                    <img src="img/deliveries_img.png" alt="">
+                                    <p>324 King Heaven tower, House no
+                                        Melbourne ,VIC-222, Australia</p>
+                                    <p>324 King Heaven tower, House no
+                                        Melbourne ,VIC-222, Australia</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="single_deliveries">
+                            <img src="img/deliveries/deliveries_1.png" alt="">
+                            <div class="single_deliveries_text">
+                                <h3>SCL Distribution Ltd</h3>
+                                <div class="single_deliveries_text_iner">
+                                    <img src="img/deliveries_img.png" alt="">
+                                    <p>324 King Heaven tower, House no
+                                        Melbourne ,VIC-222, Australia</p>
+                                    <p>324 King Heaven tower, House no
+                                        Melbourne ,VIC-222, Australia</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="single_deliveries">
+                            <img src="img/deliveries/deliveries_1.png" alt="">
+                            <div class="single_deliveries_text">
+                                <h3>MTA Computers Ltd</h3>
+                                <div class="single_deliveries_text_iner">
+                                    <img src="img/deliveries_img.png" alt="">
+                                    <p>324 King Heaven tower, House no
+                                        Melbourne ,VIC-222, Australia</p>
+                                    <p>324 King Heaven tower, House no
+                                        Melbourne ,VIC-222, Australia</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="single_deliveries">
+                            <img src="img/deliveries/deliveries_1.png" alt="">
+                            <div class="single_deliveries_text">
+                                <h3>Technology Associates</h3>
+                                <div class="single_deliveries_text_iner">
+                                    <img src="img/deliveries_img.png" alt="">
+                                    <p>324 King Heaven tower, House no
+                                        Melbourne ,VIC-222, Australia</p>
+                                    <p>324 King Heaven tower, House no
+                                        Melbourne ,VIC-222, Australia</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="single_deliveries">
+                            <img src="img/deliveries/deliveries_1.png" alt="">
+                            <div class="single_deliveries_text">
+                                <h3>Access IT</h3>
                                 <div class="single_deliveries_text_iner">
                                     <img src="img/deliveries_img.png" alt="">
                                     <p>324 King Heaven tower, House no
@@ -294,7 +379,7 @@
     <section class="blog_part padding_bottom">
         <div class="container">
             <div class="row">
-                <div class="col-lg-12">
+                <!--<div class="col-lg-12">
                     <div class="blog_tittle">
                         <h2>Latest Blog</h2>
                     </div>
@@ -354,7 +439,7 @@
                             <a href="#"> <i class="ti-comments-smiley"></i> 1 Comment</a>
                         </div>
                         <a class="btn_3" href="blog.html">read more <i class="ti-arrow-right"></i> </a>
-                    </div>
+                    </div>-->
                 </div>
             </div>
         </div>
